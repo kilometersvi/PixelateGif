@@ -9,6 +9,7 @@ to run:
     cd your_pixelator_folder
     for single gif: python gifprocess.py infile outfile <gif|spritesheet> <optional: customizationflags>
     for batch gifs: pthon gifprocess.py indir outdir <gif|spritesheet> <optional: customizationflags>
+    
 to generate customizationflags:
     1) run pixelator normally with gif as sourcefile
     2) provide desired adjustments to single preview image

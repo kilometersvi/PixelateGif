@@ -13,7 +13,7 @@ to run:
     
     for single gif: python gifprocess.py infile outfile <gif|spritesheet> <optional: customizationflags>
     
-    for batch gifs: pthon gifprocess.py indir outdir <gif|spritesheet> <optional: customizationflags>
+    for batch gifs: python gifprocess.py indir outdir <gif|spritesheet> <optional: customizationflags>
     
 to generate customizationflags:
 
